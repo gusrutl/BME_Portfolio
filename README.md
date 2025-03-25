@@ -14,13 +14,16 @@ I'm a sophomore Biomedical Engineering Student in the Lampe Joint Department of 
 ## Projects
 
 ### 1. Modeling Medtronic Spinal Cord Stimulator
-![Project Screenshot](./mnt/data/Medtronic%20External%20SCS.png)
+<img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
 
 #### Attached File:
-[Download External Spinal Cord Stimulator Model](./mnt/data/External%20Spinal%20Cord%20Stimulator.step)
+[Download External Spinal Cord Stimulator Model](./External%20Spinal%20Cord%20Stimulator.step)
 
 ### 2. Modeling Endotracheal Tube
--
+<img src="./Endotracheal Tube.png" alt="Project Screenshot" width="500">
+
+#### Attached File:
+[Download Endotracheal Tube Model](./Endotracheal%20Tube.step)
 
 ### 3. (Coming Soon) Abrams Scholarship Research Paper
 
