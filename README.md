@@ -29,7 +29,7 @@ I'm a sophomore Biomedical Engineering Student in the Lampe Joint Department of 
 
 ## Contact
 
-Feel free to reach out for collaboration or inquiries!
+Feel free to reach out!
 
 - Email: gus.e.rutledge@gmail.com
 - LinkedIn: www.linkedin.com/in/gus-rutledge-2a171b23b
