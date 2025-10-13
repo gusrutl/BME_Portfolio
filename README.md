@@ -14,7 +14,10 @@ I'm a sophomore Biomedical Engineering Student in the Lampe Joint Department of 
 ## Projects
 
 ### 1. Electromyogram Device
-<img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
+<img src="./EMG_PCB.png" alt="Project Screenshot" width="500">
+<img src="./EMGSchematic.png" alt="Project Screenshot" width="500">
+<img src="./EMGCircuit.png" alt="Project Screenshot" width="500">
+
 
 ### 2. Modeling Medtronic Spinal Cord Stimulator
 <img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
