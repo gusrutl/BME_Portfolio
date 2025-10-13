@@ -4,7 +4,7 @@ Welcome to my portfolio!
 
 ## About Me
 
-I'm a sophomore Biomedical Engineering Student in the Lampe Joint Department of Biomedical Engineering at UNC and NCSU. 
+I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Biomedical Engineering at UNC and NCSU. 
 
 - Specializing in Medical Microdevices and Rehabilitation Engineering
 - Minoring in Neuroscience
