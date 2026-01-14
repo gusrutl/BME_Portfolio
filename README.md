@@ -60,11 +60,19 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 
 ### 3. MATLAB Motion Tracking
 
-[![Joint Position Demo](media/jointPositionPt2_thumbnail.png)](media/jointPositionPt2.mp4)
+https://github.com/user-attachments/assets/62bd27ae-86a2-44dc-b0a2-9f168bd17e89
+
+
+https://github.com/user-attachments/assets/7a7a467b-c0f8-46e3-bbbf-b81d4bf20696
 
 ## Contact
 
 Feel free to reach out at:
+
+
+
+
+
 
 - Email: gus.e.rutledge@gmail.com | gusrutl@unc.edu
 - LinkedIn: www.linkedin.com/in/gus-rutledge-2a171b23b
