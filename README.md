@@ -1,6 +1,3 @@
-# BME Portfolio
-
-Welcome to my portfolio!
 
 ## About Me
 
@@ -9,7 +6,6 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 - Specializing in Medical Microdevices and Rehabilitation Engineering
 - Minoring in Neuroscience
 - Researching neural engineering to generate artificial sensations with spinal cord stimulation
-- When I'm not working, I love to run, backpack, and play basketball
 
 ## Projects
 
@@ -35,9 +31,9 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 
 ## Contact
 
-Feel free to reach out!
+Feel free to reach out at:
 
-- Email: gus.e.rutledge@gmail.com
+- Email: gus.e.rutledge@gmail.com | gusrutl@unc.edu
 - LinkedIn: www.linkedin.com/in/gus-rutledge-2a171b23b
 
 
