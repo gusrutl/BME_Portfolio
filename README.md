@@ -11,7 +11,7 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 
 ## Projects
 
-### 1. Electromyogram Device
+### 1. Electromyogram-Controlled Prosthetic Hand
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <img src="./EMG_Presentation.png" width="45%">
   <img src="./EMG_PCB.png" width="45%">
