@@ -26,6 +26,8 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
   -  a rectifier to convert the noisy AC signal to DC
   - a final lowpass filter to smooth the output signal sent to the microcontroller
   - Voltage output to a microcontroller between 0-2.5 V
+- C++ code for scaling EMG circuit output to control prosthetic hand movement:
+  - 
     
 
 ### 2. Modeling Medtronic Spinal Cord Stimulator
