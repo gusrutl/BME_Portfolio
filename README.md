@@ -17,6 +17,8 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 <img src="./EMGSchematic.png" alt="Project Screenshot" width="500">
 <img src="./EMGCircuit.png" alt="Project Screenshot" width="500">
 
+This circuit is responsible for reading the voltage across my bicep muscle, allowing the attached microcontroller to close or splay the prosthetic fingers depending on the strength of muscle contraction
+
 
 ### 2. Modeling Medtronic Spinal Cord Stimulator
 <img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
