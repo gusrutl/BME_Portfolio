@@ -7,6 +7,9 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 - Minoring in Neuroscience
 - Researching neural engineering to generate artificial sensations with spinal cord stimulation
 
+<img src="./EMG_Presentation.png" alt="Project Screenshot" width="500">
+
+
 ## Projects
 
 ### 1. Electromyogram Device
