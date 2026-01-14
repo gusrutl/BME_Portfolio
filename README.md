@@ -32,10 +32,20 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
     
 
 ### 2. Modeling Medtronic Spinal Cord Stimulator
-3D Model:
-<img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
-
-Reference:
+<table align="center">
+  <tr>
+    <th>3D Model</th>
+    <th>Reference</th>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="./Medtronic External SCS.png" alt="3D Model Screenshot" width="500">
+    </td>
+    <td align="center">
+      <img src="./MedtronicExternalSCS.png" alt="Reference Screenshot" width="500">
+    </td>
+  </tr>
+</table>
 
 
 
@@ -47,6 +57,9 @@ Reference:
 
 #### Attached File:
 [Download Endotracheal Tube Model](./Endotracheal%20Tube.step)
+
+### 3. MATLAB Motion Tracking
+
 
 
 
