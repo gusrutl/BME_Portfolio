@@ -7,18 +7,26 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 - Minoring in Neuroscience
 - Researching neural engineering to generate artificial sensations with spinal cord stimulation
 
-<img src="./EMG_Presentation.png" alt="Project Screenshot" width="500">
 
 
 ## Projects
 
 ### 1. Electromyogram Device
-<img src="./EMG_PCB.png" alt="Project Screenshot" width="500">
-<img src="./EMGSchematic.png" alt="Project Screenshot" width="500">
-<img src="./EMGCircuit.png" alt="Project Screenshot" width="500">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <img src="./EMG_Presentation.png" width="45%">
+  <img src="./EMG_PCB.png" width="45%">
+  <img src="./EMGSchematic.png" width="45%">
+  <img src="./EMGCircuit.png" width="45%">
+</div>
 
-This circuit is responsible for reading the voltage across my bicep muscle, allowing the attached microcontroller to close or splay the prosthetic fingers depending on the strength of muscle contraction
-
+- This circuit is responsible for reading the voltage across my bicep muscle, allowing the attached microcontroller to close or splay the prosthetic fingers depending on the strength of muscle contraction
+- The circuit contains:
+  -  two differential amplifier op-amp circuits with a total gain of ~1500 
+  -  a bandpass filter to remove unnecessary noise from the biosignals
+  -  a rectifier to convert the noisy AC signal to DC
+  - a final lowpass filter to smooth the output signal sent to the microcontroller
+  - Voltage output to a microcontroller between 0-2.5 V
+    
 
 ### 2. Modeling Medtronic Spinal Cord Stimulator
 <img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
