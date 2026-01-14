@@ -32,7 +32,12 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
     
 
 ### 2. Modeling Medtronic Spinal Cord Stimulator
+3D Model:
 <img src="./Medtronic External SCS.png" alt="Project Screenshot" width="500">
+
+Reference:
+
+
 
 #### Attached File:
 [Download External Spinal Cord Stimulator Model](./External%20Spinal%20Cord%20Stimulator.step)
