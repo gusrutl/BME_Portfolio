@@ -60,7 +60,7 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 
 ### 3. MATLAB Motion Tracking
 
-
+[![Joint Position Demo](media/jointPositionPt2_thumbnail.png)](media/jointPositionPt2.mp4)
 
 
 ## Contact
