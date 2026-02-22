@@ -13,15 +13,15 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 
 ### 1. Electromyogram-Controlled Prosthetic Hand
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <img src="./EMG_Presentation.png" width="45%">
-  <img src="./EMG_PCB.png" width="45%">
-  <img src="./EMGSchematic.png" width="45%">
-  <img src="./EMGCircuit.png" width="45%">
+  <img src="./media/EMG_Presentation.png" width="45%">
+  <img src="./media/EMG_PCB.png" width="45%">
+  <img src="./media/EMGSchematic.png" width="45%">
+  <img src="./media/EMGCircuit.png" width="45%">
 </div>
 
 - This circuit is responsible for reading the voltage across my bicep muscle, allowing the attached microcontroller to close or splay the prosthetic fingers depending on the strength of muscle contraction
 - C++ code for scaling EMG circuit output to control prosthetic hand movement:
-  - [Download Code](./EMGSignalProcessing.ino)
+  - [Download Code](./media/EMGSignalProcessing.ino)
 
 - The circuit contains:
   -  two differential amplifier op-amp circuits with a total gain of ~1500 
@@ -39,10 +39,10 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
   </tr>
   <tr>
     <td align="center">
-      <img src="./Medtronic External SCS.png" alt="3D Model Screenshot" width="500">
+      <img src="./media/Medtronic External SCS.png" alt="3D Model Screenshot" width="500">
     </td>
     <td align="center">
-      <img src="./MedtronicExternalSCS.png" alt="Reference Screenshot" width="500">
+      <img src="./media/MedtronicExternalSCS.png" alt="Reference Screenshot" width="500">
     </td>
   </tr>
 </table>
@@ -50,13 +50,13 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
 
 
 #### Attached File:
-[Download External Spinal Cord Stimulator Model](./External%20Spinal%20Cord%20Stimulator.step)
+[Download External Spinal Cord Stimulator Model](./media/External%20Spinal%20Cord%20Stimulator.step)
 
 ### 3. Modeling Endotracheal Tube
-<img src="./Endotracheal Tube.png" alt="Project Screenshot" width="500">
+<img src="./media/Endotracheal Tube.png" alt="Project Screenshot" width="500">
 
 #### Attached File:
-[Download Endotracheal Tube Model](./Endotracheal%20Tube.step)
+[Download Endotracheal Tube Model](./media/Endotracheal%20Tube.step)
 
 ### 3. MATLAB Motion Tracking
 
