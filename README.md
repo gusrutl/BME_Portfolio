@@ -42,7 +42,7 @@ I'm a junior Biomedical Engineering Student in the Lampe Joint Department of Bio
       <img src="./media/Medtronic External SCS.png" alt="3D Model Screenshot" width="500">
     </td>
     <td align="center">
-      <img src="./media/MedtronicExternalSCS.png" alt="Reference Screenshot" width="500">
+      <img src="./media/SCS_Reference.png" alt="Reference Screenshot" width="500">
     </td>
   </tr>
 </table>
