@@ -58,7 +58,7 @@ I'm a senior biomedical engineering student in the Lampe Joint Department of Bio
 #### Attached File:
 [Download Endotracheal Tube Model](./media/Endotracheal%20Tube.step)
 
-### 3. MATLAB Motion Tracking
+### 4. MATLAB Motion Tracking
 
 https://github.com/user-attachments/assets/62bd27ae-86a2-44dc-b0a2-9f168bd17e89
 
